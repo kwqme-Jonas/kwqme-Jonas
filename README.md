@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hi, I'm Jonas Donkor<br><br>I am a software developer with a strong interest in backend development, DevOps, and data analytics. I enjoy building practical systems, developing web applications, and continuously improving my technical skills.<br><br>I have completed the IBM DevOps and Software Engineering Professional Certificate and the Google Data Analytics Professional Certificate. My work focuses on modern web technologies, backend development, and data-driven problem solving.<br><br>I am passionate about learning, collaborating on impactful projects, and using technology to solve real-world problems.<br>
+## Hi, I'm Jonas Donkor<br><br>I am a software developer with a strong interest in backend development, DevOps, and data analytics. I enjoy building practical systems, developing web applications, and continuously improving my technical skills.<br><br>I am passionate about learning, collaborating on impactful projects, and using technology to solve real-world problems.<br>
 
 
 ## 🌐 Socials:
